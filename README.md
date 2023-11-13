@@ -27,7 +27,7 @@ Interface gráfica (aplicativo de música) desenvolvido em C#
 ## ⚙️ Funcionalidades
 
 - [x] Selecionar uma playlist de música
-- [X] Paudar a música
+- [X] Pausar a música
 - [X] Trocar de música
 ---
 
